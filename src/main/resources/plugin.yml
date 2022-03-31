@@ -1,0 +1,6 @@
+main: com.github.petercrawley.velkit.VelkitBukkit
+name: Velkit
+version: 1.0
+api-version: 1.18
+description: A plugin that can run on Bukkit and Velocity... what an unholy combination.
+author: Peter Crawley
