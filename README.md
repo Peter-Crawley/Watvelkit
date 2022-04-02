@@ -1,2 +1,2 @@
-#### Velkit
-An example on how to make an abomination... a plugin that can run on both Velocity and Bukkit.
+### Watvelkit
+A plugin that can run on Bukkit, Waterfall, and Velocity... what an abomination.

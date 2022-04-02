@@ -7,11 +7,12 @@ plugins {
 }
 
 repositories {
-	maven("https://papermc.io/repo/repository/maven-public/") // Paper & Velocity
+	maven("https://papermc.io/repo/repository/maven-public/") // Waterfall, Paper, and Velocity
   mavenCentral()
 }
 
 dependencies {
+	compileOnly("io.github.waterfallmc:waterfall-api:1.18-R0.1-SNAPSHOT") // Waterfall
 	compileOnly("io.papermc.paper:paper-api:1.18.2-R0.1-SNAPSHOT") // Paper
 	compileOnly("com.velocitypowered:velocity-api:3.1.1") // Velocity
 

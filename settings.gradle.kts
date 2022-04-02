@@ -1,1 +1,1 @@
-rootProject.name = "Velkit"
+rootProject.name = "Watvelkit"
